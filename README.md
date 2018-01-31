@@ -19,5 +19,5 @@ You may have to copy them to the same folder as your .html files.
 * Only 1 level of folders is allowed on Casio calculators' internal memory. No subfolder allowed.
 * File names on Casio calculators have 12 alphanumeric characters maximum. Same for folders. That's why the folder names have been abreviated.
 
-## The Calc2JS project
-fanfan54 started the Calc2JS project, a set of polyfills (CSS and JS files) to fix the (quite) not standard syntax of HTMcalc – the syntax that WebCalc understands, derived from HTML – so it's readable and works exactly like in the calculator, **when the .htm files are opened in a desktop web browser**. Again, work in progress...
+## The Calc2HTML project
+fanfan54 started the Calc2HTML project, a set of polyfills (CSS and JS files) to fix the (quite) not standard syntax of HTMcalc – the syntax that WebCalc understands, derived from HTML – so it's readable and works exactly like in the calculator, **when the .htm files are opened in a desktop web browser**. Again, work in progress...

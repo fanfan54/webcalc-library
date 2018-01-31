@@ -13,10 +13,11 @@ No file on this repository contains work from *Lephenixnoir*, this repo's contri
 ## How to use all these files?
 Upload the files to your Casio calculator, with the same file architecture as the repo.
 
-**There is just one special case:** the folder *.include* contains files that have to be stored in any folder they're needed.
+**There is just one special case:** the folder *.includes* contains files that have to be stored in any folder they're needed.
 You may have to copy them to the same folder as your .html files.
 
-Only 1 level of folders is allowed on Casio calculators' internal memory. No subfolder allowed.
+* Only 1 level of folders is allowed on Casio calculators' internal memory. No subfolder allowed.
+* File names on Casio calculators have 12 alphanumeric characters maximum. Same for folders. That's why the folder names have been abreviated.
 
 ## The Calc2JS project
-I started the Calc2JS project, a set of polyfills (CSS and JS files) to fix the (quite) not standard syntax of HTMcalc – the syntax that WebCalc understands, derived from HTML – so it's readable and works exactly like in the calculator, **when the .htm files are opened in a desktop web browser**. Again, work in progress...
+fanfan54 started the Calc2JS project, a set of polyfills (CSS and JS files) to fix the (quite) not standard syntax of HTMcalc – the syntax that WebCalc understands, derived from HTML – so it's readable and works exactly like in the calculator, **when the .htm files are opened in a desktop web browser**. Again, work in progress...

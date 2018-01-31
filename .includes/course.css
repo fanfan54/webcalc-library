@@ -1,0 +1,72 @@
+/* Calc2JS project from github.com/fanfan54/webcalc-library. CSS using syntax for HTMcalc, it may need polyfills to be standard-compliant. */
+
+/* HEADERS */
+title p {
+    font-size: 9;
+    text-align: center;
+}
+
+h1 {
+    font-size: 8;
+    margin-top: 4;
+    margin-left: 2;
+}
+
+h2 {
+    font-size: 7;
+    margin-left: 6;
+}
+
+h3 {
+    margin-left: 10;
+}
+
+h4 {
+    margin-left: 14;
+}
+
+h2, h3, h4 {
+    margin-top: 2;
+}
+
+/* MARGINS AND PADDINGS */
+p, h1, h2, h3, h4, mark, math {
+    margin-bottom: 4;
+}
+
+div, mark {
+    padding-right: 2;
+}
+
+div, mark, pre, math {
+    padding-left: 3;
+    padding-top: 2;
+}
+
+div {
+    margin-left: 3;
+    border-top: 1;
+    border-left: 3;
+    border-right: 1;
+    border-bottom: 2;
+}
+
+math, pre {
+    border-left: 1;
+}
+
+mark {
+    border-top: 1;
+    border-left: 1;
+    border-right: 1;
+    border-bottom: 1;
+}
+
+mark p, pre p, ul p, ol p {
+    margin-bottom: 1;
+}
+
+ul, ol {
+    padding-bottom: 1;
+}
+

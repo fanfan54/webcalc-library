@@ -8,12 +8,12 @@ Open source library of *courses, examples, and other materials* written for the 
 
 * Download the **WebCalc** source code from its official page, available on licence CeCILL (unknown licence version): http://www.planet-casio.com/Fr/programmes/dl.php?id=2849&num=2
 
-No file on this repository contains work from *Lephenixnoir*, this repo's contributors coded everything, even the Calc2JS files. But, their code is designed to be read by this specific software.
+No file on this repository contains work from *Lephenixnoir*, this repo's contributors coded everything, even the Calc2HTML files. But, their code is designed to be read by this specific software.
 
 ## How to use all these files?
 Upload the files to your Casio calculator, with the same file architecture as the repo.
 
-**There is just one special case:** the folder *.includes* contains files that have to be stored in any folder they're needed.
+**There is just one special case:** the folder *.includes* contains files that have to be stored in any folder where they're needed.
 You may have to copy them to the same folder as your .html files.
 
 * Only 1 level of folders is allowed on Casio calculators' internal memory. No subfolder allowed.

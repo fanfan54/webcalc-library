@@ -4,7 +4,7 @@ Open source library of *courses, examples, and other materials* written for the 
 
 ## Learn more about WebCalc
 
-* Official page add-in **WebCalc** made by [*Lephenixnoir*](http://www.planet-casio.com/Fr/compte/voir_profil.php?membre=lephenixnoir "Lephenixnoir's profile page on Planete Casio"): http://www.planet-casio.com/Fr/programmes/programme2849-1-WebCalc-Lephenixnoir-add-in.html
+* Official page of the add-in **WebCalc** made by [*Lephenixnoir*](http://www.planet-casio.com/Fr/compte/voir_profil.php?membre=lephenixnoir "Lephenixnoir's profile page on Planete Casio"): http://www.planet-casio.com/Fr/programmes/programme2849-1-WebCalc-Lephenixnoir-add-in.html
 
 * Download the **WebCalc** source code from its official page, available on licence CeCILL (unknown licence version): http://www.planet-casio.com/Fr/programmes/dl.php?id=2849&num=2
 

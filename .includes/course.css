@@ -30,7 +30,11 @@ h2, h3, h4 {
 }
 
 /* MARGINS AND PADDINGS */
-p, h1, h2, h3, h4, mark, math {
+p, h1, h2, h3, h4, mark, math, math-block {
+    margin-bottom: 3;
+}
+
+div, pre {
     margin-bottom: 4;
 }
 
@@ -38,7 +42,7 @@ div, mark {
     padding-right: 2;
 }
 
-div, mark, pre, math {
+div, mark, pre, math, math-block {
     padding-left: 3;
     padding-top: 2;
 }
@@ -51,8 +55,15 @@ div {
     border-bottom: 2;
 }
 
-math, pre {
+math, math-block, pre {
     border-left: 1;
+}
+
+math-block math {
+    border-left: 0;
+    padding-left: 0;
+    padding-top: 0;
+    margin-bottom: 0;
 }
 
 mark {
@@ -70,3 +81,6 @@ ul, ol {
     padding-bottom: 1;
 }
 
+body, mark {
+    margin-right: 1;
+}
